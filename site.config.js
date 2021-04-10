@@ -12,7 +12,7 @@ module.exports = {
   author: 'SUT by transitive',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '围与突围，高山低谷',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
