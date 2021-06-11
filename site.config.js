@@ -1,18 +1,18 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'abe481947caf40fa824cb3dc2dafc03a',
+  rootNotionPageId: 'c8862541cf254e57ad92808f05aa4621',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '天物小站',
+  name: 'YogaAlinys',
   domain: '',
   author: 'SUT by transitive',
 
   // open graph metadata (optional)
-  description: '围与突围，高山低谷',
+  description: '你一定能成为你想要成为的人',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
